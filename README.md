@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="45%">
-      <img src="Heiwa Banner.png" width="100%">
+      <img src="cea45da62e22722c3a15ad1361287d21.jpg" width="100%">
     </td>
     <td width="55%">
       <h1>✨ Cyel 🩵</h1>
