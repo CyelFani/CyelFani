@@ -4,7 +4,7 @@
       <img src="Heiwa Banner.png" width="100%">
     </td>
     <td width="55%">
-      <h1>✨ Heiwa 🐾</h1>
+      <h1>✨ Cyel 🩵</h1>
       <p>
         ☗ Bienvenid@ a mi perfil.<br>
         ﹕ᓚ₍⑅^..^₎ ა︵‿︵‿︵‿︵‿︵‿︵︵‿︵‿︵‿︵‿︵‿︵‿₊˚ˎˊ
@@ -31,7 +31,7 @@
 <div align="center">
 
 <img width="95%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeiwaNava&theme=github_dark" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyelhFani&theme=github_dark" />
 
 <br><br>
 
@@ -40,14 +40,14 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?u
 <td width="50%">
 
 <img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeiwaNava&theme=github_dark" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CyelFani&theme=github_dark" />
 
 </td>
 
 <td width="50%">
 
 <img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HeiwaNava&theme=github_dark&utcOffset=-5" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CyelFani&theme=github_dark&utcOffset=-5" />
 
 </td>
 </tr>
@@ -60,14 +60,14 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?u
 <td width="50%">
 
 <img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeiwaNava&theme=github_dark" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CyelFani&theme=github_dark" />
 
 </td>
 
 <td width="50%">
 
 <img width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeiwaNava&theme=github_dark" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CyelFani&theme=github_dark" />
 
 </td>
 </tr>
@@ -76,6 +76,6 @@ src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-langu
 <br>
 
 <img width="95%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=HeiwaNava&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true&radius=12" />
+src="https://github-readme-activity-graph.vercel.app/graph?username=CyelFani&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=58A6FF&area=true&hide_border=true&radius=12" />
 
 </div>
