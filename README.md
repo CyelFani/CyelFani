@@ -31,7 +31,7 @@
 <div align="center">
 
 <img width="95%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyelhFani&theme=github_dark" />
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CyelFani&theme=github_dark" />
 
 <br><br>
 
